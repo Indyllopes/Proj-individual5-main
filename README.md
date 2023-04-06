@@ -15,5 +15,7 @@ Passo a Passo
 
 🛠️ Tecnologias utilizadas
 No projeto foi utilizado Javascript.
+
+
 📄 Status do projeto
 Projeto Finalizado.
